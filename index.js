@@ -1,4 +1,4 @@
-{
+module.exports = {
     "arrowParens": "avoid",
     "bracketSpacing": true,
     "htmlWhitespaceSensitivity": "css",
@@ -11,7 +11,7 @@
     "requirePragma": false,
     "semi": true,
     "singleQuote": true,
-    "tabWidth": 2,
+    "tabWidth": 5,
     "trailingComma": "none",
     "useTabs": false,
     "vueIndentScriptAndStyle": false
