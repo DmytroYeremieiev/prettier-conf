@@ -11,7 +11,7 @@ module.exports = {
     "requirePragma": false,
     "semi": true,
     "singleQuote": true,
-    "tabWidth": 5,
+    "tabWidth": 2,
     "trailingComma": "none",
     "useTabs": false,
     "vueIndentScriptAndStyle": false
