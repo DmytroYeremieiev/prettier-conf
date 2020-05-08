@@ -12,7 +12,8 @@ module.exports = {
     "semi": true,
     "singleQuote": true,
     "tabWidth": 2,
-    "trailingComma": "none",
+    "trailingComma": "es5",
     "useTabs": false,
     "vueIndentScriptAndStyle": false
 }
+
