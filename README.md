@@ -1,5 +1,5 @@
 ```
-yard add --dev prettier-conf
+yarn add --dev prettier-conf
 or 
 npm install --save-dev
 ```
